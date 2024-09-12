@@ -33,30 +33,46 @@ password - admin123
 
 ## Pokretanje aplikacije
 
-- Kompletna aplikacija se nalazi na repozitorijumu i kada se preuzme potrebno je posedovati ono sto navedena arhitektura aplikacije zahteva. U slucaju da se pokrece preko Visual Studio Code-a dovoljno je otvoriti folder sa aplikacijom i u terminalu pokrenuti virtuelno okruzenje komandom ".\env\Scripts\Activate" nakon toga se pokrece server komandom "python manage.py runserver". Nakon sto se pokrene server pokrece se angular takodje u termnalu komandom "ng serve" i u pretrazivacu je dovoljno uneti "http://localhost:4200", a ako zelite da pristupite glavnom korisniku: "http://127.0.0.1:8000/admin/", nacin prijave je vec naveden iznad. PhpMyAdmin je na: "http://localhost:8082".
+- Kompletna aplikacija se nalazi na repozitorijumu i kada se preuzme potrebno je posedovati ono sto navedena arhitektura aplikacije zahteva. U slucaju da se pokrece preko Visual Studio Code-a dovoljno je otvoriti folder sa aplikacijom i u terminalu pokrenuti virtuelno okruzenje komandom ".\env\Scripts\Activate" nakon toga se pokrece server komandom "python manage.py runserver". Nakon sto se pokrene server pokrece se angular takodje u termnalu komandom "ng serve" i u pretrazivacu je dovoljno uneti "http://localhost:4200", a ako zelite da pristupite glavnom korisniku: "http://127.0.0.1:8000/admin/", nacin prijave je vec naveden iznad. 
 
-<img style="margin-left: 50px;" src="../Screenshots/Docker.png" width="600px">
 
 ## Screenshots:
 
 #### Pocetna Strana
-<img src="../Screenshots/Pocetna_Strana.png" width="600">
-
-#### Login Strana
-<img src="../Screenshots/Login_Strana.png" width="600">
+<img src="/Screenshots/Homepage.png" width="600">
 
 #### Strana za Pretragu
-<img src="../Screenshots/Pretraga_Strana.png" width="600">
+<img src="/Screenshots/Searchpage.png" width="600">
 
-#### Strana koja prikazuje Vest
-<img src="../Screenshots/Vest_Strana.png" width="600">
+#### Login Strana
+<img src="/Screenshots/Login.png" width="600">
 
-#### Strana za komentare
-<img src="../Screenshots/Komentari_Strana.png" width="600">
+#### REgister Strana
+<img src="/Screenshots/Register.png" width="600">
 
-#### Urednik Login
-<img src="../Screenshots/Urednik_Login.png" width="600">
+#### Podesavanja naloga
+<img src="/Screenshots/Settings.png" width="600">
 
-#### Urednik Pocetna
-<img src="../Screenshots/Urednik_Pocetna.png" width="600">
+#### Sacuvani filmovi
+<img src="/Screenshots/Bookmarks.png" width="600">
 
+#### Film Detalji
+<img src="/Screenshots/Movie.png" width="600">
+
+#### Trailer modal
+<img src="/Screenshots/Trailer.png" width="600">
+
+#### Torrents
+<img src="/Screenshots/Torrents.png" width="600">
+
+#### Subtitles
+<img src="/Screenshots/Subtitles.png" width="600">
+
+#### Admin login
+<img src="/Screenshots/AdminLogin.png" width="600">
+
+#### Admin DAshboard
+<img src="/Screenshots/Dashboard.png" width="600">
+
+#### Admin upravljanje
+<img src="/Screenshots/User.png" width="600">
